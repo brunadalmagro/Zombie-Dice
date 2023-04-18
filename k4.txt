@@ -1,0 +1,15 @@
+Uma [] de dificuldades hehehe
+ 
+
+Primeiro: eu estava usando o .pop para eliminar o jogador que leva 3 tiros:
+
+If tiros == 3:
+    listajogadores.pop(jogador_atual)
+    print(“O zumbi {}        morreu”.format(listajogadores[jogador_atual]))
+
+Ele elimina o o proximo jogador e não o fiduma que levou 3 tiros.
+
+Existe uma maneira simples de tirar um item da lista “vazia”, ja que nao temos ainda o nome e nem a quantidade de jogadores?
+
+@Monitora Lyene
+Pelo Fale com a Gente os professores respondem em até 48h!

@@ -1,0 +1,10 @@
+defmostraLinha():
+print('---------------------')
+mostralinha()
+print('blabla')
+mostralinha()
+
+defmensagem(msg):
+print('-------------------')
+print('msg')
+print('-------------------')
